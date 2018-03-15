@@ -7,5 +7,5 @@
 normalMean(samples = 10)
 }
 \description{
-And this just test documentation.
+And this just a brief test documentation.
 }
