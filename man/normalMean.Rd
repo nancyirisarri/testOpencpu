@@ -6,6 +6,9 @@
 \usage{
 normalMean(samples = 10)
 }
+\arguments{
+\item{samples}{number of samples}
+}
 \description{
 And this just a brief test documentation.
 }
