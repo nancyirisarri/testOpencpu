@@ -6,5 +6,5 @@
 #' @param samples number of samples
 normalMean <- function(samples=10){
   data <- rnorm(samples)
-  mean(data)
+  message = paste("mean is: ", mean(data))
 }
